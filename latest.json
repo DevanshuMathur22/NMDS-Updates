@@ -1,7 +1,7 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
-  "notes": "Initial NMDS release.",
-  "apkUrl": "https://github.com/DevanshuMathur22/NMDS-Updates/releases/download/v1.0/nmds-v1.0.apk",
-  "sha256": "ff8427a6ba3beee0b272f6ac29ccd59be0900893a005e217d6fe85467674c9db"
+  "versionCode": 2,
+  "versionName": "1.1",
+  "notes": "OneDrive login fix and in-app update support.",
+  "apkUrl": "https://github.com/DevanshuMathur22/NMDS-Updates/releases/download/v1.1/app-release.apk",
+  "sha256": "0eb72a1faea2e2f1f8d18b322294b57484d9b03217291381dcaf512d0c4e4a55"
 }
