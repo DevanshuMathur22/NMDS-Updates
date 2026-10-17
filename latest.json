@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "1.8.1",
-  "notes": "NMDS v1.8.1 improves OneDrive connection status, patient display and duplicate-patient protection.",
-  "apkUrl": "https://github.com/DevanshuMathur22/NMDS-Updates/releases/download/v1.8.1/app-release.apk",
-  "sha256": "2fb0c9a7b2b02367f2f1aeae65d31b23be7f819e6e4abff25c99b68fb77c664e"
+  "versionCode": 11,
+  "versionName": "1.8.2",
+  "notes": "NMDS v1.8.2 fixes patient reload stability and improves duplicate-patient protection.",
+  "apkUrl": "https://github.com/DevanshuMathur22/NMDS-Updates/releases/download/v1.8.2/app-release.apk",
+  "sha256": "cc0a43e34f43a2750d36619863534980db920d5e0f74151d4cf97ce4013ba9a3"
 }
