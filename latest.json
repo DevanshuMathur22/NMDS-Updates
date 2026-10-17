@@ -1,7 +1,7 @@
 {
   "versionCode": 9,
   "versionName": "1.8",
-  "notes": "NMDS Android update v1.8",
+  "notes": "OneDrive clinical storage update. Existing local patients are safely migrated and verified in OneDrive. Patients, visits, assessments, drafts and videos now use cloud-first storage.",
   "apkUrl": "https://github.com/DevanshuMathur22/NMDS-Updates/releases/download/v1.8/nmds-v1.8.apk",
-  "sha256": "3562f13e66eba60813311240160664446ad35641a81b4d821665acafb876d967"
+  "sha256": "8416ebb9ca7c7afba513e65827b6202ebbc813094054dc745e9ba8942be19513"
 }
