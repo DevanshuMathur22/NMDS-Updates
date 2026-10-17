@@ -1,7 +1,7 @@
 {
   "versionCode": 9,
   "versionName": "1.8",
-  "notes": "OneDrive clinical storage update. Existing clinical records are migrated with verification. Patients, visits, assessments, drafts and videos now use cloud-first storage.",
+  "notes": "NMDS v1.8 is ready. OneDrive clinical storage migration and cloud sync improvements.",
   "apkUrl": "https://github.com/DevanshuMathur22/NMDS-Updates/releases/download/v1.8/app-release.apk",
   "sha256": "06dc4d6ad8a4a13ea38bb8ae7a4426ee513a16b25883025a2fd09e3178b0acb0"
 }
