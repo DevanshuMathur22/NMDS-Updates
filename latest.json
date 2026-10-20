@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "1.8.2",
-  "notes": "NMDS v1.8.2 fixes patient reload stability and improves duplicate-patient protection.",
-  "apkUrl": "https://github.com/DevanshuMathur22/NMDS-Updates/releases/download/v1.8.2/app-release.apk",
-  "sha256": "cc0a43e34f43a2750d36619863534980db920d5e0f74151d4cf97ce4013ba9a3"
+  "versionCode": 12,
+  "versionName": "1.8.3",
+  "notes": "NMDS v1.8.3 adds shared assessment question sync across authorized devices and improves mobile stability.",
+  "apkUrl": "https://github.com/DevanshuMathur22/NMDS-Updates/releases/download/v1.8.3/app-release.apk",
+  "sha256": "d3e63f467d5103543d48f3d6192e1e7fb571af978253fe8944954845303d3ee6"
 }
