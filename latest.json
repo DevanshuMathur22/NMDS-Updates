@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "1.8.3",
-  "notes": "NMDS v1.8.3 adds shared assessment question sync across authorized devices and improves mobile stability.",
-  "apkUrl": "https://github.com/DevanshuMathur22/NMDS-Updates/releases/download/v1.8.3/app-release.apk",
-  "sha256": "d3e63f467d5103543d48f3d6192e1e7fb571af978253fe8944954845303d3ee6"
+  "versionCode": 14,
+  "versionName": "1.8.5",
+  "notes": "NMDS Android update v1.8.5",
+  "apkUrl": "https://github.com/DevanshuMathur22/NMDS-Updates/releases/download/v1.8.5/nmds-v1.8.5.apk",
+  "sha256": "0ffb64097f48ccaf3316377bb49886cc1153d75b66a8a3e169762b941eb15edc"
 }
