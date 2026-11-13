@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "1.8.7",
-  "notes": "NMDS Android update v1.8.7",
-  "apkUrl": "https://github.com/DevanshuMathur22/NMDS-Updates/releases/download/v1.8.7/nmds-v1.8.7.apk",
-  "sha256": "de77a39175ea499c9135f046c42288ec4389182a5710496db4c25faad9de052e"
+  "versionCode": 17,
+  "versionName": "1.8.8",
+  "notes": "NMDS Android update v1.8.8",
+  "apkUrl": "https://github.com/DevanshuMathur22/NMDS-Updates/releases/download/v1.8.8/nmds-v1.8.8.apk",
+  "sha256": "df40622f49d30dd8731ca40e3d100f265db220970a219ce8642aba6e81e6b214"
 }
