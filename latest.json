@@ -1,1 +1,7 @@
-{"versionCode":21,"versionName":"1.9.2","notes":"NMDS Android update v1.9.2","apkUrl":"https://github.com/DevanshuMathur22/NMDS-Updates/releases/download/v1.9.2/app-release.apk","sha256":"3c2a6e205128519d29ef329b47d36de8a4061fa276bab2df4ef84e919dfea9ea"}
+{
+  "versionCode": 22,
+  "versionName": "1.9.3",
+  "notes": "NMDS Android update v1.9.3",
+  "apkUrl": "https://github.com/DevanshuMathur22/NMDS-Updates/releases/download/v1.9.3/nmds-v1.9.3.apk",
+  "sha256": "25f573be4f37b60befcaed33e6eb38618e7d57adb54f153256a1916872fe6175"
+}
